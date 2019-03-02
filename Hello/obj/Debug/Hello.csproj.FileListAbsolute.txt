@@ -1,0 +1,12 @@
+C:\Users\李琛\source\repos\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\李琛\source\repos\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\李琛\source\repos\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\UserControl1.g.cs
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\Hello_MarkupCompile.cache
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\Hello_MarkupCompile.lref
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\UserControl1.baml
+C:\Users\李琛\source\repos\Hello\Hello\obj\Debug\Hello.g.resources
