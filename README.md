@@ -1,1 +1,2 @@
 # homework
+在HelloWorld.cs中写了一个HelloWorld类，其中有两个方法，SayHello1方法可实现实例化的HelloWorld，而SayHello2方法可实现静态的HelloWorld。
